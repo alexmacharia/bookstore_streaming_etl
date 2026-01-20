@@ -1,3 +1,5 @@
+#Databricks notebook source
+
 class Config():
     def __init__(self):
         self.base_data_dir = 's3://bookstore-storage-001'
